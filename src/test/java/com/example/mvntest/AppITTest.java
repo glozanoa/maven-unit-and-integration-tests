@@ -1,4 +1,4 @@
-package com.example;
+package com.example.mvntest;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Integration test for simple App.
  */
-public class AppIT {
+public class AppITTest {
 
     @Test
     public void integrationTestShouldAnswerWithTrue()

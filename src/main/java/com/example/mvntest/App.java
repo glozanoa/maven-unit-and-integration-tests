@@ -1,4 +1,4 @@
-package com.example;
+package com.example.mvntest;
 
 /**
  * Hello world!

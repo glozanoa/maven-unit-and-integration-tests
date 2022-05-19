@@ -1,5 +1,5 @@
 # ignore target folder
- /target/
+target/
 
 # ignore IntelliJ files
 .idea/

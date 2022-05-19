@@ -1,4 +1,4 @@
-package com.example;
+package com.example.mvntest;
 
 import static org.junit.Assert.assertTrue;
 
