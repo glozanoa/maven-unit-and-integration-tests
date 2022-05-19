@@ -14,4 +14,4 @@ jobs:
           java-version: '11'
           distribution: 'adopt'
       - name: Run tests with Maven
-        run: mvn test
+        run: mvn --batch-mode --no-transfer-progress test
